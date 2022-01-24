@@ -1,5 +1,5 @@
 # Overview
-Project was created for practice with React
+Project was created for practice with React and React Router
 # Dev Dependencies
 Prettier+, ESLint, VSCode, React/ES7/Typescript Snippets
 # Getting Started
@@ -10,3 +10,5 @@ Prettier+, ESLint, VSCode, React/ES7/Typescript Snippets
 3. Run npm or yarn start in the terminal to see your project in your browser
 
 4. Start coding your stock tracker in your code editor
+# License Note
+You can use the code just say where it came from
